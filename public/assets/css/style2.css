@@ -1,0 +1,12 @@
+#navigation li .menu-active{
+    color:white !important;
+    font-weight: bold;
+}
+
+.bd-highlight a {
+    color : #acacac !important;
+}
+
+.bd-highlight a:hover{
+    color: white !important;
+}
